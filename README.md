@@ -6,6 +6,8 @@ Unity oyun motoru ile geliştirilmekte olup çoklu oyuncu için Photon motoru ku
 **<08.08.2022>** <br/>
 -Bu oyunun ilk, temel versiyonudur. <br/>
 -Oyunu açtığınızda servera bağlanacaksınız ve bir küp sizi karşılayacak. Şuanlık sunucu maksimum 3 kişiliktir. <br/>
-Kontroller: W-A-S-D
+Kontroller: W-A-S-D <br/>
 
-[İndirmek için tıklayınız.](https://github.com/KantoshK/online-tank/archive/refs/heads/main.zip)
+İndirmek için: Code > Download ZIP
+
+[İndiremediyseniz buraya tıklayarak indirebilirsiniz.](https://github.com/KantoshK/online-tank/archive/refs/heads/main.zip)
