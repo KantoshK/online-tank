@@ -5,7 +5,7 @@ Unity oyun motoru ile geliştirilmekte olup çoklu oyuncu için Photon motoru ku
 
 ## **v0.0.1 Tamamlandı** <br/>
 -Bu sayfadaki dosya oyunun ilk, temel versiyonudur. <br/>
--Oyunu açtığınızda servera bağlanacaksınız ve bir küp sizi karşılayacak. Şuanlık sunucu maksimum 3 kişiliktir. 3 kişiden fazla kişi girdiği zaman servera bağlanılmıyor. <br/>
+-Oyunu açtığınızda servera bağlanacaksınız ve bir küp sizi karşılayacak. Şuanlık sunucu maksimum 3 kişiliktir. 3'ten fazla kişi oyuna girdiği zaman servera bağlanılmıyor. <br/>
 Kontroller: W-A-S-D <br/>
 
 İndirmek için: Code > Download ZIP <br/>
