@@ -3,7 +3,7 @@
 
 Unity oyun motoru ile geliştirilmekte olup çoklu oyuncu için Photon motoru kullanılmaktadır.
 
-**<08.08.2022>** <br/>
+## **v0.0.1** <br/>
 -Bu oyunun ilk, temel versiyonudur. <br/>
 -Oyunu açtığınızda servera bağlanacaksınız ve bir küp sizi karşılayacak. Şuanlık sunucu maksimum 3 kişiliktir. <br/>
 Kontroller: W-A-S-D <br/>
