@@ -15,3 +15,7 @@ Oyunu açmak için: ZIP'te olan tank klasörünün içindeki tank.exe dosyasın�
 
 ## **v0.0.2 Tamamlandı** <br/>
 [İndirmek için ve diğer versiyonlar için tıklayın.](https://github.com/KantoshK/online-tank/releases)
+
+## **v0.0.3 Yapılacaklar** <br/>
+-Ateş etme sistemi. <br/>
+-Diğer oyuncularla temas halinde olunması
